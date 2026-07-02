@@ -768,3 +768,63 @@ Planned activities include:
 AriTech NEXUS has progressed from an initial idea into a well-documented software engineering project with a clearly defined architecture, development roadmap, and implementation strategy.
 
 The project is now ready to transition from planning into active development while maintaining a strong foundation of documentation, version control, and engineering best practices.
+
+
+Sprint 4
+──────────────
+✅ NestJS
+✅ PostgreSQL
+✅ Prisma
+✅ Authentication
+✅ Users
+✅ Roles
+
+Sprint 5
+──────────────
+Customers
+Plans
+Subscriptions
+
+Sprint 6
+──────────────
+Billing
+Invoices
+Payments
+Receipts
+
+Sprint 7
+──────────────
+Hotspot
+Voucher System
+Agents
+
+Sprint 8
+──────────────
+MikroTik API
+Provisioning
+Synchronization
+
+Sprint 9
+──────────────
+Inventory
+Warehouses
+Equipment
+
+Sprint 10
+──────────────
+Monitoring
+Router Status
+Traffic
+Alerts
+
+Sprint 11
+──────────────
+Reports
+Dashboard
+Analytics
+
+Sprint 12
+──────────────
+Frontend Integration
+Testing
+Deployment
